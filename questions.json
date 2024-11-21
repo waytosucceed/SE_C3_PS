@@ -1,0 +1,233 @@
+{
+  "heading": "Factors, Multiples, HCF and Division Method",
+  "topics": [
+    {
+      "heading": "Factors, Multiples, HCF and Division Method",
+      "questions": [
+        {
+            "questionNo": 1,
+            "question": "Which of the following is a factor of 30?",
+            "options": [
+                { "text": "8", "image": null },
+                { "text": "9", "image": null },
+                { "text": "10", "image": null },
+                { "text": "11", "image": null }
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 2,
+            "question": "Which of the following is NOT a factor of 42?",
+            "options": [
+                { "text": "6", "image": null },
+                { "text": "7", "image": null },
+                { "text": "8", "image": null },
+                { "text": "14", "image": null }
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 3,
+            "question": "Which of the following numbers has the most factors?",
+            "options": [
+                { "text": "12", "image": null },
+                { "text": "13", "image": null },
+                { "text": "14", "image": null },
+                { "text": "15", "image": null }
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 4,
+            "question": "Which of the following are the factors of 56?",
+            "options": [
+                { "text": "1, 2, 4, 7, 8, 14, 28, 56", "image": null },
+                { "text": "2, 4, 7, 8, 14, 28", "image": null },
+                { "text": "1, 2, 4, 8, 14, 28, 56", "image": null },
+                { "text": "1, 2, 4, 6, 7, 8, 14, 28, 56", "image": null }
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 5,
+            "question": "Which of the following are the factors of 90?",
+            "options": [
+                { "text": "1, 2, 3, 5, 6, 9, 10, 15, 18, 30, 45, 90", "image": null },
+                { "text": "2, 3, 5, 6, 9, 10, 15, 18, 30, 45, 90", "image": null },
+                { "text": "1, 2, 3, 5, 6, 9, 10, 15, 45, 90", "image": null },
+                { "text": "1, 2, 3, 5, 6, 10, 15, 18, 45, 90", "image": null }
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 6,
+            "question": "Value of A + B + C = ?<br><img width='55%' src='./assests/images/question/1.png'>",
+            "options": [
+                { "text": "30", "image": null },
+                { "text": "34", "image": null },
+                { "text": "44", "image": null },
+                { "text": "54", "image": null }
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 7,
+            "question": "Value of B is ?<br><img width='55%' src='./assests/images/question/2.png'>",
+            "options": [
+                { "text": "23", "image": null },
+                { "text": "27", "image": null },
+                { "text": "33", "image": null },
+                { "text": "42", "image": null }
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 8,
+            "question": "Which of the following is the prime Factorisation of 108, where the numbers are written using exponents?",
+            "options": [
+                { "text": "2 × 3<sup>2</sup> × 5", "image": null },
+                { "text": "2<sup>2</sup> × 3<sup>3</sup>", "image": null },
+                { "text": "2<sup>3</sup> × 3<sup>2</sup>", "image": null },
+                { "text": "2<sup>2</sup> × 3 × 37", "image": null }
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 9,
+            "question": "Which of the following is the prime Factorisation of 240, where the numbers are written using exponents?",
+            "options": [
+                { "text": "2<sup>4</sup> × 3 × 5", "image": null },
+                { "text": "2<sup>2</sup> × 3<sup>2</sup> × 5<sup>2</sup>", "image": null },
+                { "text": "2<sup>2</sup> × 3 × 10", "image": null },
+                { "text": "2<sup>5</sup> × 3 × 5", "image": null }
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 10,
+            "question": "Which of the following is NOT a common factor of 24 and 36?",
+            "options": [
+                { "text": "8", "image": null },
+                { "text": "12", "image": null },
+                { "text": "6", "image": null },
+                { "text": "None of the above", "image": null }
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 11,
+            "question": "The HCF of 28 and 49 is:",
+            "options": [
+                { "text": "4", "image": null },
+                { "text": "7", "image": null },
+                { "text": "14", "image": null },
+                { "text": "28", "image": null }
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 12,
+            "question": "The HCF of 72 and 90 is:",
+            "options": [
+                { "text": "2", "image": null },
+                { "text": "6", "image": null },
+                { "text": "9", "image": null },
+                { "text": "18", "image": null }
+            ],
+            "answer": 3
+        },
+        {
+            "questionNo": 13,
+            "question": "Value of B is ___?<br><img width='55%' src='./assests/images/question/3.png'>",
+            "options": [
+                { "text": "8", "image": null },
+                { "text": "10", "image": null },
+                { "text": "12", "image": null },
+                { "text": "15", "image": null }
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 14,
+            "question": "Sum of B and E from the image is___?<br><img width='55%' src='./assests/images/question/4.png'>",
+            "options": [
+                { "text": "72", "image": null },
+                { "text": "54", "image": null },
+                { "text": "24", "image": null },
+                { "text": "12", "image": null }
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 15,
+            "question": "Which of the following pairs has the same HCF as 32 and 48?",
+            "options": [
+                { "text": "16 and 36", "image": null },
+                { "text": "24 and 60", "image": null },
+                { "text": "18 and 27", "image": null },
+                { "text": "80 and 64", "image": null }
+            ],
+            "answer": 3
+        },
+        {
+            "questionNo": 16,
+            "question": "Which of the following pairs has the same HCF as 42 and 56?",
+            "options": [
+                { "text": "28 and 40", "image": null },
+                { "text": "28 and 42", "image": null },
+                { "text": "35 and 49", "image": null },
+                { "text": "24 and 36", "image": null }
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 17,
+            "question": "A baker has 48 chocolate muffins and 36 vanilla muffins. He wants to pack them into boxes with the same number of each type. What is the greatest number of boxes he can make?",
+            "options": [
+                { "text": "6", "image": null },
+                { "text": "8", "image": null },
+                { "text": "12", "image": null },
+                { "text": "16", "image": null }
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 18,
+            "question": "A farmer has 80 carrots and 64 potatoes. He wants to group them into bundles with the same number of each. What is the maximum number of bundles?",
+            "options": [
+                { "text": "8", "image": null },
+                { "text": "16", "image": null },
+                { "text": "20", "image": null },
+                { "text": "24", "image": null }
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 19,
+            "question": "A decorator has 54 red ribbons and 72 blue ribbons. She wants to divide them into sets with equal numbers of each. What is the largest number of sets she can create?",
+            "options": [
+                { "text": "9", "image": null },
+                { "text": "12", "image": null },
+                { "text": "18", "image": null },
+                { "text": "24", "image": null }
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 20,
+            "question": "A store has 56 pens, 72 pencils, and 96 erasers. What is the largest number of identical kits they can make with equal quantities of each item?",
+            "options": [
+                { "text": "4", "image": null },
+                { "text": "8", "image": null },
+                { "text": "16", "image": null },
+                { "text": "24", "image": null }
+            ],
+            "answer": 1
+        }
+    ]
+    
+    
+    
+    }
+  ]
+}
